@@ -1,4 +1,4 @@
-<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Md. Tanvir Alam Chowdhury - Senior Data and AI Engineer and Agentic Systems Builder">
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Md Tanvir Alam Chowdhury - Senior Data and AI Engineer - Agentic Engineering">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1120"/>
@@ -34,9 +34,9 @@
   <rect x="64" y="86" width="6" height="150" rx="3" fill="url(#accent)"/>
 
   <text x="90" y="108" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" letter-spacing="5" fill="#7C8CA6" font-weight="600">SENIOR DATA &amp; AI ENGINEER</text>
-  <text x="88" y="162" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" fill="url(#name)">Md. Tanvir Alam Chowdhury</text>
-  <text x="90" y="200" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#9DB2CE">Agentic Systems Builder  ·  Databricks Certified &#215;3</text>
-  <text x="90" y="238" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="17" fill="#FF8A5B">&#62; harnesses · loops · skills · mcp servers</text>
+  <text x="88" y="162" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" fill="url(#name)">Md Tanvir Alam Chowdhury</text>
+  <text x="90" y="200" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#9DB2CE">Agentic Engineering  ·  Databricks Certified &#215;3</text>
+  <text x="90" y="238" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="16" fill="#FF8A5B">&#62; fix data pipelines · build harnesses · loops · skills · mcp servers</text>
 
   <g>
     <rect x="838" y="214" width="378" height="74" rx="10" fill="#0E1729" stroke="#22304A" stroke-width="1.2"/>
