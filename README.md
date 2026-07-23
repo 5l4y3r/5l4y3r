@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Md Tanvir Alam Chowdhury — Senior Data & AI Engineer · Agentic Systems Builder" width="100%" />
+<img src="./banner.svg" alt="Md Tanvir Alam Chowdhury — Senior Data & AI Engineer · Data Engineering & Agentic AI" width="100%" />
 
 <br/>
 
@@ -12,25 +12,29 @@
 
 ---
 
-### 🧠 Agentic Engineering — what sets me apart
+### 🧭 What I do
 
-> I build the **scaffolding that makes AI agents reliable in production** — the harnesses, loops, skills, and MCP servers that turn a raw model into a dependable system.
+Two disciplines, equal depth — I build the data platform **and** the intelligent systems that run on it.
 
-- 🧩 **Harnesses & orchestration loops** — deterministic control flow around non-deterministic models: retries, verification, and convergence instead of one-shot prompts.
-- 🛠️ **Skills** — packaged, testable, composable agent capabilities that scale beyond a single prompt.
-- 🔌 **MCP servers** — connecting LLMs to real tools, data, and systems through the Model Context Protocol.
-- 🌉 **Full stack, data → agents** — I ship the lakehouse foundation *and* the agentic layer that runs on top of it.
+| 🏗️ Data Engineering | 🤖 Agentic AI Engineering |
+| :-- | :-- |
+| Lakehouse platforms on **Databricks** | **Harnesses & orchestration loops** for LLMs |
+| **Spark** tuning · **Delta Lake** · Unity Catalog | Packaged, testable, reusable **skills** |
+| Streaming + batch **pipelines** — dbt, Airflow | **MCP servers** connecting models to tools & data |
+| Data modeling & **pipeline reliability** | **RAG** & **LLMOps** in production |
+
+> I ship the **data foundation** *and* the **agentic layer** that runs on top of it — end to end.
 
 ---
 
 ### 🚀 About me
 
-- 🏗️ **Senior Data & AI Engineer** at **Artefact Germany GmbH** — lakehouse platforms, streaming + batch pipelines, and MLOps end to end.
+- 🏗️ **Senior Data Engineer** — lakehouse platforms on Databricks, Spark-tuned streaming + batch pipelines, and Unity Catalog governance.
+- 🤖 **Agentic AI Engineer** — harnesses, loops, skills, and MCP servers for reliable production LLM systems.
 - 🔺 **Databricks Certified ×3** — Data Engineer *Professional*, Data Engineer *Associate*, and *Generative AI Engineer* Associate.
-- 🤖 **Agentic engineer** — building harnesses, loops, skills, and MCP servers for production LLM systems.
 - ⚡ **Software developer** shipping **Next.js / TypeScript** applications — mostly agentic interfaces and tooling.
 - ☁️ Comfortable across **Azure, AWS, and GCP** — infrastructure-as-code and cost-aware.
-- 📍 Based in **Hamburg, Germany** · 💬 ask me about **Spark tuning, pipeline reliability, LLMOps, and MCP**.
+- 📍 Based in **Hamburg, Germany** at **Artefact Germany GmbH** · 💬 ask me about **Spark tuning, pipeline reliability, LLMOps, and MCP**.
 
 ---
 
@@ -94,9 +98,9 @@
 
 ### 🔭 What I'm building
 
-- 🌊 Streaming + batch lakehouse pipelines with **Delta Live Tables** and **Unity Catalog** governance.
-- 🤖 **Agentic harnesses & MCP servers** — reliable orchestration, reusable skills, and tool integration for production LLMs.
-- ⚡ **Next.js / TypeScript** front ends for agentic workflows — where the data platform meets the user.
+- 🏗️ **Data** — streaming + batch lakehouse pipelines with **Delta Live Tables** and **Unity Catalog** governance.
+- 🤖 **Agents** — harnesses, reusable skills, and **MCP servers** for reliable production LLMs.
+- ⚡ **Product** — **Next.js / TypeScript** front ends where the data platform meets the user.
 
 ---
 
@@ -110,6 +114,6 @@
 
 <br/>
 
-<i>“I don't just use models — I build the systems that make them dependable.”</i>
+<i>“From raw data to reliable agents — I build the whole pipeline.”</i>
 
 </div>
