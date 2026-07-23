@@ -61,19 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=5l4y3r&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5l4y3r&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5l4y3r&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
 ### 🔎 What I'm working on
 
 - 🌊 Streaming + batch lakehouse pipelines with **Delta Live Tables** and **Unity Catalog** governance.
