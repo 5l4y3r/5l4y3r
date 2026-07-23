@@ -1,0 +1,49 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Md. Tanvir Alam Chowdhury - Senior Data and AI Engineer and Agentic Systems Builder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#111A2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#FF3621"/>
+      <stop offset="1" stop-color="#FF8A5B"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#CBD9EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+
+  <g opacity="0.16" stroke="#5AA0FF" stroke-width="1.5">
+    <line x1="1040" y1="52" x2="1140" y2="96"/>
+    <line x1="1140" y1="96" x2="1210" y2="60"/>
+    <line x1="1140" y1="96" x2="1120" y2="180"/>
+    <line x1="1040" y1="52" x2="1000" y2="140"/>
+    <line x1="1120" y1="180" x2="1000" y2="140"/>
+  </g>
+  <g opacity="0.9" fill="#5AA0FF">
+    <circle cx="1040" cy="52" r="4" opacity="0.55"/>
+    <circle cx="1140" cy="96" r="5" opacity="0.7"/>
+    <circle cx="1210" cy="60" r="3.5" opacity="0.5"/>
+    <circle cx="1120" cy="180" r="4" opacity="0.5"/>
+    <circle cx="1000" cy="140" r="3.5" opacity="0.45"/>
+  </g>
+
+  <rect x="64" y="86" width="6" height="150" rx="3" fill="url(#accent)"/>
+
+  <text x="90" y="108" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" letter-spacing="5" fill="#7C8CA6" font-weight="600">SENIOR DATA &amp; AI ENGINEER</text>
+  <text x="88" y="162" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" fill="url(#name)">Md. Tanvir Alam Chowdhury</text>
+  <text x="90" y="200" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" fill="#9DB2CE">Agentic Systems Builder  ·  Databricks Certified &#215;3</text>
+  <text x="90" y="238" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="17" fill="#FF8A5B">&#62; harnesses · loops · skills · mcp servers</text>
+
+  <g>
+    <rect x="838" y="214" width="378" height="74" rx="10" fill="#0E1729" stroke="#22304A" stroke-width="1.2"/>
+    <circle cx="860" cy="234" r="4.5" fill="#FF5F56"/>
+    <circle cx="878" cy="234" r="4.5" fill="#FFBD2E"/>
+    <circle cx="896" cy="234" r="4.5" fill="#27C93F"/>
+    <text x="854" y="264" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" fill="#7CE0B6">$ agent.run(harness)</text>
+    <text x="854" y="282" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" fill="#9DB2CE">&#8594; mcp://tools connected &#160;<tspan fill="#FF8A5B">&#10003; loop converged</tspan></text>
+  </g>
+</svg>
