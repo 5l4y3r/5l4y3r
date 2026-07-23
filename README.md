@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Md. Tanvir Alam Chowdhury — Senior Data & AI Engineer · Agentic Systems Builder" width="100%" />
+<img src="./banner.svg" alt="Md Tanvir Alam Chowdhury — Senior Data & AI Engineer · Agentic Systems Builder" width="100%" />
 
 <br/>
 
